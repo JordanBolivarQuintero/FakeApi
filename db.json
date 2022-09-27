@@ -1,56 +1,37 @@
 {
     "leaders": 
     {
-        "scores":   [
+        "users":   [
             {
-              "userId": 1,
-              "value": 5,
-              "name":"lololex"
+              "name": "juan1",
+              "id": 1,
+              "email":"juan1@correo.com",
+              "time":"1301.5"
             },
             {
-              "userId":2,
-              "value": 2,
-              "name":"juan"                
+              "name": "juan2",
+              "id": 2,
+              "email":"juan2@correo.com",
+              "time":"571.4"
             },
             {
-              "userId":3,
-              "value": 4,
-              "name":"raul"
+              "name": "juan3",
+              "id": 3,
+              "email":"juan3@correo.com",
+              "time":"800"
             },
             {
-              "userId":4,
-              "value": 14,
-              "name":"samuel"
+              "name": "juan4",
+              "id": 4,
+              "email":"juan4@correo.com",
+              "time":"333.78"
             },
             {
-              "userId":5,
-              "value": 10,
-              "name":"carlos"
+              "name": "juan5",
+              "id": 5,
+              "email":"juan5@correo.com",
+              "time":"728.22"
             }
               ] 
-    },
-    "users":{
-        "users":[
-            {
-                "id":1,
-                "name":"lololex",
-                "score": 5
-            },
-            {
-                "id":2,
-                "name":"waroo"
-            }
-        ]
-
-    },
-    "Achievements":{
-            "data":[
-                {
-                    "id":1,
-                    "title":"Flying Bird",
-                    "desc": "Juega 100 veces mas de 10 tubos"
-                },{},{},{}
-            ]
     }
-  }
-  
+}
