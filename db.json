@@ -5,32 +5,86 @@
             {
               "name": "juan1",
               "id": 1,
+              "group": 1,
               "email":"juan1@correo.com",
               "time":"1301.5"
             },
             {
               "name": "juan2",
               "id": 2,
+              "group": 1,
               "email":"juan2@correo.com",
-              "time":"571.4"
+              "time":"1300"
             },
             {
               "name": "juan3",
               "id": 3,
+              "group": 1,
               "email":"juan3@correo.com",
-              "time":"800"
+              "time":"320"
             },
             {
               "name": "juan4",
               "id": 4,
+              "group": 1,
               "email":"juan4@correo.com",
-              "time":"333.78"
+              "time":"705.8"
             },
             {
               "name": "juan5",
-              "id": 5,
+              "id": 1,
+              "group": 2,
               "email":"juan5@correo.com",
-              "time":"728.22"
+              "time":"546.35"
+            },
+            {
+              "name": "juan6",
+              "id": 2,
+              "group": 2,
+              "email":"juan6@correo.com",
+              "time":"845.2"
+            },
+            {
+              "name": "juan7",
+              "id": 3,
+              "group": 2,
+              "email":"juan7@correo.com",
+              "time":"935"
+            },
+            {
+              "name": "juan8",
+              "id": 4,
+              "group": 2,
+              "email":"juan8@correo.com",
+              "time":"1200.498"
+            },
+            {
+              "name": "juan9",
+              "id": 1,
+              "group": 3,
+              "email":"juan9@correo.com",
+              "time":"1245"
+            },
+            {
+              "name": "juan10",
+              "id": 2,
+              "group": 3,
+              "email":"juan10@correo.com",
+              "time":"899.56"
+            },
+            {
+              "name": "juan11",
+              "id": 3,
+              "group": 3,
+              "email":"juan11@correo.com",
+              "time":"751.6"
+            },
+            {
+              "name": "juan12",
+              "id": 4,
+              "group": 3,
+              "email":"juan12@correo.com",
+              "time":"450.36"
             }
               ] 
     }
